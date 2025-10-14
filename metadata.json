@@ -1,0 +1,5 @@
+{
+  "name": "Hyperlocal Store-Wise Search Insights Dashboard",
+  "description": "A data-driven dashboard that analyzes store-wise and location-wise search trends, including deep down insights, forecasting, and store comparison, with AI-powered summaries.",
+  "requestFramePermissions": []
+}
