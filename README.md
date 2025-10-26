@@ -2,7 +2,7 @@
 
 A data-driven dashboard that analyzes store-wise and location-wise search trends, including deep down insights, forecasting, and store comparison, with AI-powered summaries.
 
-![Hyperlocal Search Insights Dashboard Screenshot](https://storage.googleapis.com/aistudio-project-assets/social_media_images/gemini_hyperlocal_dashboard_demo.png)
+![Hyperlocal Search Insights Dashboard Screenshot](https://hyperlocal-store-wise-search-insights-dashboard-463685441551.us-west1.run.app)
 
 ## ✨ Features
 
