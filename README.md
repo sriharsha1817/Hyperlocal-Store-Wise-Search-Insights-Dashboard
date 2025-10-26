@@ -2,7 +2,7 @@
 
 A data-driven dashboard that analyzes store-wise and location-wise search trends, including deep down insights, forecasting, and store comparison, with AI-powered summaries.
 
-![Hyperlocal Search Insights Dashboard Screenshot](https://hyperlocal-store-wise-search-insights-dashboard-463685441551.us-west1.run.app)
+[Hyperlocal Search Insights Dashboard Screenshot](https://hyperlocal-store-wise-search-insights-dashboard-463685441551.us-west1.run.app)
 
 ## ✨ Features
 
